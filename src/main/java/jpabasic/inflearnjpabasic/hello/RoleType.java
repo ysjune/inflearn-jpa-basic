@@ -1,5 +1,5 @@
-package jpabasic.inflearnjpabasic.hello;
-
-public enum RoleType {
-    MASTER, SLAVE
-}
+//package jpabasic.inflearnjpabasic.hello;
+//
+//public enum RoleType {
+//    MASTER, SLAVE
+//}

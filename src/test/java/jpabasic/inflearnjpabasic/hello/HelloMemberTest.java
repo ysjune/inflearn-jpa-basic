@@ -19,11 +19,11 @@ public class HelloMemberTest {
     @Transactional
     void name() {
 
-        Member member = new Member();
-        member.setId(1L);
-        member.setUsername("kiki");
-
-        em.persist(member);
+//        Member member = new Member();
+//        member.setId(1L);
+//        member.setUsername("kiki");
+//
+//        em.persist(member);
     }
 
     @AfterEach
