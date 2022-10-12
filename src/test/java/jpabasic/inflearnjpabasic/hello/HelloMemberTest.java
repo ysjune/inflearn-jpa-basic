@@ -21,7 +21,7 @@ public class HelloMemberTest {
 
         Member member = new Member();
         member.setId(1L);
-        member.setName("kiki");
+        member.setUsername("kiki");
 
         em.persist(member);
     }
